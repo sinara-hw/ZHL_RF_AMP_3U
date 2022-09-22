@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for ZHL_RF_AMP
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=ZHL-1-2WX-S
 
 [Preferences]
 PrefsVaultGUID=
@@ -133,6 +134,91 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MUWSHAJG
 
+[ProjectVariant1]
+UniqueID=3B065B32-FEB3-4293-96BA-B7E1F519355A
+Description=ZHL-1-2WX-S
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=MECH?|UniqueId=\CNIUPNUO|Kind=1|AlternatePart= 
+Variation2=Designator=MECH5|UniqueId=\AIGBNZXX|Kind=1|AlternatePart= 
+Variation3=Designator=C2|UniqueId=\LYRRCMHD|Kind=1|AlternatePart= 
+Variation4=Designator=C4|UniqueId=\HXUXMHDH|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=D75F1A7C-8D72-430F-892E-E3F6F5AE7B18
+Description=ZHL2010
+AllowFabrication=0
+ParameterCount=0
+VariationCount=37
+Variation1=Designator=MECH3|UniqueId=\DGXTYPEL|Kind=1|AlternatePart= 
+Variation2=Designator=IC1|UniqueId=\NZGBMYCU|Kind=1|AlternatePart= 
+Variation3=Designator=C12|UniqueId=\LHTNQXYO|Kind=1|AlternatePart= 
+Variation4=Designator=C13|UniqueId=\ODZYMLAC|Kind=1|AlternatePart= 
+Variation5=Designator=C14|UniqueId=\TEQQQYJW|Kind=1|AlternatePart= 
+Variation6=Designator=C16|UniqueId=\SCJTBPLK|Kind=1|AlternatePart= 
+Variation7=Designator=D2|UniqueId=\GJOHNVJE|Kind=1|AlternatePart= 
+Variation8=Designator=C5|UniqueId=\WBFRXMUP|Kind=1|AlternatePart= 
+Variation9=Designator=C6|UniqueId=\YHHZBKSF|Kind=1|AlternatePart= 
+Variation10=Designator=C28|UniqueId=\MFUTPRKH|Kind=1|AlternatePart= 
+Variation11=Designator=C7|UniqueId=\YHTVFKYX|Kind=1|AlternatePart= 
+Variation12=Designator=C8|UniqueId=\GGIYFXIJ|Kind=1|AlternatePart= 
+Variation13=Designator=L1|UniqueId=\MGCEFHKS|Kind=1|AlternatePart= 
+Variation14=Designator=C22|UniqueId=\TAQOYNRG|Kind=1|AlternatePart= 
+Variation15=Designator=C23|UniqueId=\LOFUYIGL|Kind=1|AlternatePart= 
+Variation16=Designator=C24|UniqueId=\VWCQRLAP|Kind=1|AlternatePart= 
+Variation17=Designator=L2|UniqueId=\WJEQPVXV|Kind=1|AlternatePart= 
+Variation18=Designator=C25|UniqueId=\XAUPMYCM|Kind=1|AlternatePart= 
+Variation19=Designator=C26|UniqueId=\MWZVZOEU|Kind=1|AlternatePart= 
+Variation20=Designator=C27|UniqueId=\ZXZSNHPG|Kind=1|AlternatePart= 
+Variation21=Designator=R3|UniqueId=\YUMYLGZO|Kind=1|AlternatePart= 
+Variation22=Designator=C20|UniqueId=\NHSVKCNG|Kind=1|AlternatePart= 
+Variation23=Designator=C21|UniqueId=\DGXOQUTP|Kind=1|AlternatePart= 
+Variation24=Designator=R6|UniqueId=\CQZJGKAV|Kind=1|AlternatePart= 
+Variation25=Designator=C19|UniqueId=\WDMKJKLL|Kind=1|AlternatePart= 
+Variation26=Designator=C17|UniqueId=\ULIYMIAS|Kind=1|AlternatePart= 
+Variation27=Designator=R4|UniqueId=\XCTPMSAU|Kind=1|AlternatePart= 
+Variation28=Designator=R7|UniqueId=\FURWHBHI|Kind=1|AlternatePart= 
+Variation29=Designator=R8|UniqueId=\JLPTEQSH|Kind=1|AlternatePart= 
+Variation30=Designator=R5|UniqueId=\OUSDFAOD|Kind=1|AlternatePart= 
+Variation31=Designator=C18|UniqueId=\LVHAVYGM|Kind=1|AlternatePart= 
+Variation32=Designator=R10|UniqueId=\KQKQSDGR|Kind=1|AlternatePart= 
+Variation33=Designator=R11|UniqueId=\SMJGWOPY|Kind=1|AlternatePart= 
+Variation34=Designator=R9|UniqueId=\TJSSXCBV|Kind=1|AlternatePart= 
+Variation35=Designator=SW2|UniqueId=\UFOZAGZQ|Kind=1|AlternatePart= 
+Variation36=Designator=J3|UniqueId=\PKOFXQJR|Kind=1|AlternatePart= 
+Variation37=Designator=MECH6|UniqueId=\LMGURXEU|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ZHL_RF_AMP\Design Rule Check - ZHL_RF_AMP.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Qjz9BE6.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\QjzA5AA.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\QjzA989.xls
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\QjzD88A.xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\QjzD836.xls
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\QjzF95A.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -144,12 +230,12 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for ZHL_RF_AMP
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -251,12 +337,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -329,11 +425,23 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -355,7 +463,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -427,7 +535,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -476,7 +584,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -584,7 +692,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -628,7 +736,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -685,11 +793,46 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=Web ReviewOutputName
+OutputName18=Web Review Data
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother MFC-L2710DW series Printer
+TargetPrinter=Brother DCP-L2540DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1014,6 +1157,7 @@ Type123=1
 Type124=1
 Type125=1
 Type126=1
+Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
